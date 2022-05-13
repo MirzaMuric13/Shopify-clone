@@ -1,0 +1,13 @@
+.logo-list {
+    width: 100%;
+    height: auto;
+    padding: 0 5%;
+}
+
+.logo-list ul {
+    display: flex;
+    padding: 60px 0;
+    margin-bottom: 60px;
+    list-style: none;
+    justify-content: space-between;
+}

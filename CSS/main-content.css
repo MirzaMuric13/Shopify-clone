@@ -1,0 +1,86 @@
+.main-content {
+    width: 100%;
+    align-items: center;
+    margin-top: 5%;
+    display: flex;
+    background-color: #FBF7ED;
+}
+
+.log-in {
+    text-align: left;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.log-in h1 {
+    color: #004c3f;
+    font-size: 40px;
+    margin-bottom: 20px;
+    row-gap: 10px;
+    line-height: 1.375;
+    font-weight: 800;
+    letter-spacing: -0.028125em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.log-in p {
+    font-size: 18px;
+    line-height: 1.3;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.email {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    margin: auto 0;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;  
+}
+
+.trial-btn {
+    background-color: #008060;
+    color: white;
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    margin: auto 0;
+    outline: none;
+    border-radius: 5px;
+    border-color: transparent;
+    font-size: 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.trial-btn:hover {
+    background-color:#004c3f ;
+    transition: 0.4s;
+}
+
+p.description {
+    font-size: 13px;
+    line-height: 1.3;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main-picture {
+    margin-left: 100px;
+
+}
+
+.main-picture img {
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+    height:auto;
+    box-sizing: border-box;
+}
+

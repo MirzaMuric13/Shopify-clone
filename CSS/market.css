@@ -1,0 +1,117 @@
+.market {
+    width: 100%;
+    height: auto;
+    padding: 0 5%;
+    text-align: center;
+    align-items: center;
+    color: black;
+}
+
+.market h1 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 100px;
+}
+
+.market p {
+    color: #42474c;
+    margin-bottom: 1em;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.market .sell {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.market .sell .video {
+    vertical-align: middle;
+    width: 50%;
+    object-fit: contain;
+    align-items: right;
+}
+
+.market .sell .video-description {
+    text-align: left;
+    margin: auto;
+}
+
+.market .sell .video-description h2 {
+    margin: 20px 0;
+} 
+
+.market .sell .video-description p {
+    width: 100%;
+    margin-bottom: 1em;
+    line-height: 1.5;
+    font-size: 1em;
+    color: #42474c;
+}
+
+.video-description span {
+    font-weight: 700;
+    font-size: 20px;
+    padding-right: 20px;
+    color: #008060;
+    cursor: pointer;
+}
+
+.business {
+    display: flex;
+}
+
+.business .business-description {
+    margin: auto;
+    text-align: left;
+    line-height: 1.5;
+    margin-left: 150px;
+}
+
+.business .business-description h2 {
+    margin: 20px 0;
+}
+
+.business .business-description p {
+    font-size: 16px;
+}
+
+.business-description span {
+    font-weight: 900;
+    font-size: 20px;
+    padding-right: 20px;
+    color: #008060;
+    cursor: pointer;   
+}
+
+.market .manage {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 32px;
+}
+
+.manage .manage-description {
+    margin: auto;
+    text-align: left;
+    line-height: 1.5;
+    margin-left: 150px;
+}
+
+.manage-image img {
+    width: 700PX;
+    align-items: center;
+    justify-content: center;
+}
+
+.manage-description span {
+    font-weight: 700;
+    font-size: 20px;
+    padding-right: 20px;
+    color: #008060;
+    cursor: pointer;
+}
+
+.manage-description p {
+    font-size: 16px;
+}

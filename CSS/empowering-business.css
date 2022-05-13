@@ -1,0 +1,40 @@
+.empowering-business {
+    padding-top: 50px;
+    padding-left: 5%;
+    margin-bottom: 45px;
+    text-align: left;
+    width: 50%;
+}
+
+.empowering-business .empowering-business-description h2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #212326;
+    margin-bottom: 32px;
+}
+
+.empowering-business .empowering-business-description h3 {
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 32px;
+    
+    line-height: 1.33333;
+}
+
+.empowering-business-description span {
+    color: #008060;
+    padding-right: 1.2em;
+    text-decoration: none;
+    font-weight: 700;
+    line-height: 1.5;
+    cursor: pointer;
+}
+
+.globe-image {
+    width: 90%;
+    height: auto;
+}
+
+.globe-image img {
+    width: 1227px;
+}

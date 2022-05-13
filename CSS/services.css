@@ -1,0 +1,33 @@
+.shopify-services {
+    padding: 48px 0;
+    margin-top: 100px;
+}
+
+.shopify-services h2 {
+    margin-bottom: 13px;
+}
+
+.shopify-services .services {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.shopify-services .services  div {
+    width: 25%;
+    padding: 10px;
+}
+
+.shopify-services .services h4 {
+    font-weight: bold;
+}
+
+.shopify-services .services p {
+    line-height: 1.5;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.shopify-services .services img {
+    width: 36px;
+    margin-bottom: 20px;
+}
